@@ -2,6 +2,10 @@
 
 replicate of https://github.com/mjhea0/flaskr-tdd/tree/main
 
+## Added Test Function : test_login2_0(client)
+
+https://github.com/ECE444-2023Fall/project-1-web-application-design-group13-giggelz/blob/main/app_test.py
+
 ## Pros and Cons of TDD:
 
 Test-Driven Development (TDD) offers a distinctive approach to software development that boasts both merits and drawbacks. TDD's primary advantage lies in its proactive stance toward software quality. It places testing at the forefront, compelling developers to consider design and architecture deeply. This emphasis on sound planning often results in cleaner, more maintainable code. TDD's early bug detection and regression prevention translate to minimized debugging time and increased confidence in code refactoring. Moreover, it keeps development teams firmly on the path to meeting project requirements.
